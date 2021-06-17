@@ -1,0 +1,17 @@
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.csprojAssemblyReference.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.AssemblyInfoInputs.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.AssemblyInfo.cs
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.deps.json
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.csproj.CopyComplete
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.runtimeconfig.json
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.runtimeconfig.dev.json
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.genruntimeconfig.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Business\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.deps.json
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.csprojAssemblyReference.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.AssemblyInfoInputs.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.AssemblyInfo.cs
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.csproj.CopyComplete
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Data\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.csproj.CoreCompileInputs.cache

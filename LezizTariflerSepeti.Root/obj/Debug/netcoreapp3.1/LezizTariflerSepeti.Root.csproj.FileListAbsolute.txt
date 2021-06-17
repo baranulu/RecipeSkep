@@ -1,0 +1,16 @@
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.deps.json
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Business.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Data.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.csprojAssemblyReference.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.AssemblyInfoInputs.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.AssemblyInfo.cs
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.csproj.CopyComplete
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.pdb

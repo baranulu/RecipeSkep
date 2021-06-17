@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LezizTariflerSepeti.Business", "LezizTariflerSepeti.Business\LezizTariflerSepeti.Business.csproj", "{5C8701D9-B580-474B-9464-7BDD89A7F351}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LezizTariflerSepeti.UI", "LezizTariflerSepeti.UI\LezizTariflerSepeti.UI.csproj", "{2A72C943-94C4-4B06-A4EF-41DE0BB6DE84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LezizTariflerSepeti.Entity", "LezizTariflerSepeti.Entity\LezizTariflerSepeti.Entity.csproj", "{1C33E38D-B17F-449A-8DBA-B904ABFDBAD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LezizTariflerSepeti.Data", "LezizTariflerSepeti.Data\LezizTariflerSepeti.Data.csproj", "{890D704C-C20B-4B03-B592-EB67175F6A57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LezizTariflerSepeti.Web.Api", "LezizTariflerSepeti.Web.Api\LezizTariflerSepeti.Web.Api.csproj", "{DDCDC43A-F058-4902-B0B0-56FDD2E72A5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LezizTariflerSepeti.Root", "LezizTariflerSepeti.Root\LezizTariflerSepeti.Root.csproj", "{AFE436C5-333E-4096-A7DC-0732CA769185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8701D9-B580-474B-9464-7BDD89A7F351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8701D9-B580-474B-9464-7BDD89A7F351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8701D9-B580-474B-9464-7BDD89A7F351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8701D9-B580-474B-9464-7BDD89A7F351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A72C943-94C4-4B06-A4EF-41DE0BB6DE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A72C943-94C4-4B06-A4EF-41DE0BB6DE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A72C943-94C4-4B06-A4EF-41DE0BB6DE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A72C943-94C4-4B06-A4EF-41DE0BB6DE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C33E38D-B17F-449A-8DBA-B904ABFDBAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C33E38D-B17F-449A-8DBA-B904ABFDBAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C33E38D-B17F-449A-8DBA-B904ABFDBAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C33E38D-B17F-449A-8DBA-B904ABFDBAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890D704C-C20B-4B03-B592-EB67175F6A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890D704C-C20B-4B03-B592-EB67175F6A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890D704C-C20B-4B03-B592-EB67175F6A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890D704C-C20B-4B03-B592-EB67175F6A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCDC43A-F058-4902-B0B0-56FDD2E72A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCDC43A-F058-4902-B0B0-56FDD2E72A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCDC43A-F058-4902-B0B0-56FDD2E72A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCDC43A-F058-4902-B0B0-56FDD2E72A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE436C5-333E-4096-A7DC-0732CA769185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE436C5-333E-4096-A7DC-0732CA769185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE436C5-333E-4096-A7DC-0732CA769185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE436C5-333E-4096-A7DC-0732CA769185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B23F07E-DC3E-44E3-87F4-ADBE57C6AC1B}
+	EndGlobalSection
+EndGlobal

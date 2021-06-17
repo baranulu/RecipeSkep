@@ -1,0 +1,12 @@
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.deps.json
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.AssemblyInfoInputs.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.AssemblyInfo.cs
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.dll
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.runtimeconfig.json
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\bin\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.runtimeconfig.dev.json
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.genruntimeconfig.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Entity\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Entity.csprojAssemblyReference.cache
