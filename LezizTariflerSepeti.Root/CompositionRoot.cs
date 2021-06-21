@@ -20,7 +20,7 @@ namespace LezizTariflerSepeti.Root
             services.AddScoped(typeof(IUnıtOfWork), typeof(UnıtOfWork));
 
             services.AddDbContext<DataContext>(options =>
-            options.UseSqlServer("server=. ;uid=sa ;database=LezizTariflerSepeti ; pwd=1234asdf ;MultipleActiveResultSets=True", x => x.MigrationsAssembly("LezizTariflerSepeti.UI")));
+            options.UseSqlServer("server=. ;uid=sa ;database=LezizTariflerSepetiDB ; pwd=1234asdf ;MultipleActiveResultSets=True", x => x.MigrationsAssembly("LezizTariflerSepeti.UI")));
         }
     }
 }

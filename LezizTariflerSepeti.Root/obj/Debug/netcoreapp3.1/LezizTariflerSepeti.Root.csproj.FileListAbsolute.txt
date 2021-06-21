@@ -10,7 +10,7 @@ C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\bin\Debug\netc
 C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.csprojAssemblyReference.cache
 C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.AssemblyInfoInputs.cache
 C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.AssemblyInfo.cs
-C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.csproj.CoreCompileInputs.cache
 C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.csproj.CopyComplete
 C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.dll
 C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.pdb
+C:\Users\Msi\Desktop\LezizTariflerSepeti\LezizTariflerSepeti.Root\obj\Debug\netcoreapp3.1\LezizTariflerSepeti.Root.csproj.CoreCompileInputs.cache
